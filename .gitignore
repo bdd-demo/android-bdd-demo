@@ -1,0 +1,42 @@
+# IDE
+## Jetbrains
+*.iml
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+## VSCode
+/.vscode
+
+
+# macOS
+.DS_Store
+
+
+# Android 
+## Android Studio Captures
+/captures
+
+## Android Local Config
+/local.properties
+local.properties
+
+## Built application files
+/*/build/
+*.apk
+*.ap_
+*.aab
+
+
+# Java
+*.class
+
+
+# Gradle
+.gradle
+/build
+.externalNativeBuild
+.cxx
